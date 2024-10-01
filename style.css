@@ -1,0 +1,31 @@
+/* Custom Styles */
+
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+}
+
+#hero {
+    background: url('hero-bg.jpg') no-repeat center center/cover;
+    height: 100vh;
+    color: white;
+    text-align: center;
+}
+
+#hero h1 {
+    font-size: 3rem;
+    margin-bottom: 1rem;
+}
+
+#about img {
+    max-width: 300px;
+}
+
+#services i {
+    color: #007bff;
+    margin-bottom: 1rem;
+}
+
+footer {
+    background: #333;
+}
